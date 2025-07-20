@@ -1,0 +1,8 @@
+{
+  "version": "1.0.1",
+  "downloadUrl": "https://googledrive.com/javaFX.jar",
+  "changelog": [
+    "Correctif sur le thème sombre",
+    "Correction du DOM Scanner"
+  ]
+}
